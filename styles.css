@@ -1,0 +1,29 @@
+.btn {
+    padding: 8px;
+    font-size: 17px;
+    background-color: #0085f3;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.menu {
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    z-index: 100;
+}
+
+.menu div {
+    padding: 2px;
+    cursor: pointer;
+}
+
+.menu div:hover {
+    background-color: #ccc;
+}
+
+.red {
+    background-color: red;
+}
